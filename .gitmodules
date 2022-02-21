@@ -1,0 +1,9 @@
+[submodule "modules/umxcore"]
+	path = modules/umxcore
+	url = git@github.com:cchaine/umxcore
+[submodule "modules/umxvideo"]
+	path = modules/umxvideo
+	url = git@github.com:cchaine/umxvideo
+[submodule "tools/umxdbg"]
+	path = tools/umxdbg
+	url = git@github.com:cchaine/umxdbg
